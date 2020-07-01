@@ -1,12 +1,11 @@
 ## Internal Award Calculation
 
-We will explain the procedure to calculate Internal Assesment Awards.
+We will explain the procedure to calculate Internal Assesment Awards, using Moodle's GradeBook.
 
-We will use GradeBook of moodle.
-
+Moodle's gradebook is a powerful tool for managing grades, sharing grades and feedback with students and calculating final grades.
 Student will get marks on the basis of various activities like Attendacne, Assignments, Mid Semester Examinations.
 
-We can creaet all these activities without setting up a gradebook. However it is better, if we set up grade book inadvance,
+We can create all these activities without setting up a gradebook. However it is better, if we set up grade book inadvance,
 
 However we will follow first approach, as that will cover most common apprach adopted by a beginner.
 
