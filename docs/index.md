@@ -11,16 +11,16 @@ However we will follow first approach, as that will cover most common apprach ad
 
 Let us take we have a class with sections A, B and B furhther have two sub-sections B1 and B2.
 
-### Attendacne
+### [Attendacne](Attendance.html)
 
 write here
 
 
-### Assignments
+### [Assignments](Assignments.html)
 
 abc
 
-### Mid Semester Examinations (MSE)
+### [Mid Semester Examinations](MSE.html)
 
 xyz
 
