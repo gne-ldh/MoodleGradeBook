@@ -37,6 +37,8 @@ activities, and calculate internal assessment.
 We assume that you can upload marks for any activity, if marks / grades are
 not automatically calculated by Moodle system. 
 
+### [Grade Categories](GradeCategories.html)
+
 ### [Attendacne](Attendance.html)
 
 write here
