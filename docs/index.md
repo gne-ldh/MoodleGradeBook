@@ -39,7 +39,7 @@ not automatically calculated by Moodle system.
 
 If you don't know how to upload marks from spreadsheet, then watch movie:
 
-<iframe src="https://drive.google.com/file/d/1D73aKWyGB7jtCtttpIUvSmvKyBedZ9oe/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1D73aKWyGB7jtCtttpIUvSmvKyBedZ9oe/preview"></iframe>
 
 ### [Grade Categories](GradeCategories.html)
 
