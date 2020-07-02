@@ -37,6 +37,10 @@ activities, and calculate internal assessment.
 We assume that you can upload marks for any activity, if marks / grades are
 not automatically calculated by Moodle system. 
 
+If you don't know how to upload marks from spreadsheet, then watch movie:
+
+[https://vimeo.com/434570808](https://vimeo.com/434570808).
+
 ### [Grade Categories](GradeCategories.html)
 
 ### [Attendacne](Attendance.html)
