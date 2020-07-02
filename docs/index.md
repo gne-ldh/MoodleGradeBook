@@ -41,18 +41,15 @@ not automatically calculated by Moodle system.
 
 ### [Attendacne](Attendance.html)
 
-write here
+### Assignments
 
+Follow similar approach as for attendacne.
 
-### [Assignments](Assignments.html)
+### Mid Semester Examinations
 
-abc
+Follow similar approach as for attendacne.
 
-### [Mid Semester Examinations](MSE.html)
+### Help
 
-xyz
-
-![101](Quiz/Quiz101.png)
-
-See more link in file links.md
-
+For any type of help, ask question at HelpLine of LCMS course on
+guru.gndec.ac.in
