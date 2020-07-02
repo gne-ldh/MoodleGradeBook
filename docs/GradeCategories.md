@@ -8,7 +8,7 @@ We need to calculate Internal for:
 
 So accordingly, we will create these three categories for grades.
 
-Watch video at [https://youtu.be/rf2Nx6PWnWY](https://youtu.be/rf2Nx6PWnWY).
+Watch video at [Add Grade Category](https://youtu.be/jTAMD-JUuvQ).
 
 To do this, follow steps given below:
 
