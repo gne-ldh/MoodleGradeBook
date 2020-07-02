@@ -8,6 +8,8 @@ We need to calculate Internal for:
 
 So accordingly, we will create these three categories for grades.
 
+Watch video at [https://youtu.be/rf2Nx6PWnWY](https://youtu.be/rf2Nx6PWnWY).
+
 To do this, follow steps given below:
 
 1.  From your course home, click on setup icon (Gear/Cog),and from drop-down
