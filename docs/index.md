@@ -39,7 +39,7 @@ not automatically calculated by Moodle system.
 
 If you don't know how to upload marks from spreadsheet, then watch movie:
 
-[https://vimeo.com/434570808](https://vimeo.com/434570808).
+[Maeks via spreadsheet](https://dai.ly/x7us0h2).
 
 ### [Grade Categories](GradeCategories.html)
 
