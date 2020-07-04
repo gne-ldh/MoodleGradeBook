@@ -25,13 +25,13 @@ tutorials are conducted for section A, B1 and B2 separately.
 
 For assignments, let take six assignments are given to students, each of 10
 marks, and we will consider best four. We also conducted 5 Quizzes, and out
-of 5 bes4 four will be consider of grades towards "Assignments".  
+of 5 best four will be consider of grades towards "Assignments".  
 
 We conducted two MSEs and one makeup / improvement MSE. So out of three best
 two will be considered. Each MSE is of 24 marks
 
 We have created all these activities, without assigning then any category,
-amd we are at the end of semester. Now we will classify all these
+and we are at the end of semester. Now we will classify all these
 activities, and calculate internal assessment.
 
 We assume that you can upload marks for any activity, if marks / grades are
